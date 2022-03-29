@@ -27,5 +27,7 @@
     </tbody>
 </table>
 
+<a href="/"> 메인 </a>
+
 </body>
 </html>

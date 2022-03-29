@@ -13,7 +13,7 @@
     <li>age= ${member.age} </li>
 </ul>
 
-<a href="/index.html">
+<a href="/"> 메인 </a>
 
 </body>
 </html>

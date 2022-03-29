@@ -12,5 +12,6 @@
 <button type="submit">전송</button>
 </form>
 
+<a href="/"> 메인 </a>
 </body>
 </html>
